@@ -3,11 +3,11 @@
 @section('title', 'About')
 
 @section('content')
-    <h1>About</h1>
+    <h1>About Me</h1>
 
-    <p>My name is {{ $page->owner->name }}</p>
+    <p>My name is Carla M {{ $page->owner->name }}</p>
 
-    <h2>Links:</h2>
+    <h2>Follow me</h2>
 
     <ul>
         <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">Twitter</a></li>
