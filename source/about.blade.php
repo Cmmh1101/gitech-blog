@@ -10,7 +10,7 @@
     <h2>Follow me</h2>
 
     <ul>
-        <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">Twitter</a></li>
+        <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">Twitter<i class="fab fa-twitter-square"></i></a></li>
         <li><a href="https://github.com/{{ $page->owner->github }}" target="_blank">GitHub</a></li>
     </ul>
 @endsection
