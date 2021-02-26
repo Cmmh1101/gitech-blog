@@ -1,13 +1,13 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static</h1>
+    <h1>Hi! Welcome to my getting into tech journey</h1>
 
-    <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
+    <p>This is a place where I will be sharing my own journey and experiences. The good ones, not so good, and the hardest ones.</p>
 
-    <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
+    <p>One of the things that I enjoy the most is to help others and I'm sure (at least I hope) that I get to help and support at least one person in the journay of getting into tech!</p>
 
-    <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
+    <p>I will be sharing different topics related in somehow to my journey.</p>
 
     <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank">
         <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
